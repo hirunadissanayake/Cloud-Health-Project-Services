@@ -36,6 +36,6 @@ Start Config Server, Discovery Server, and API Gateway before the domain service
 | Property | Value |
 |---|---|
 | Student | Hiruna Dissanayake |
-| Student number | `24171104` |
+| Student number | `241711024` |
 | GCP project | `cloud-health-506015-hiruna` |
 | Parent repository | `Cloud-Health-Project-Services` |
