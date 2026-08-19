@@ -1,0 +1,10 @@
+[submodule "patient-service"]
+	path = patient-service
+	url = https://github.com/hirunadissanayake/Cloud-Health-Project-Service-Patient.git
+[submodule "diagnostics-service"]
+	path = diagnostics-service
+	url = https://github.com/hirunadissanayake/Cloud-Health-Project-Service-Diagnostics.git
+[submodule "file-service"]
+	path = file-service
+	url = https://github.com/hirunadissanayake/Cloud-Health-Project-Service-File.git
+
